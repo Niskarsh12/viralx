@@ -29,3 +29,12 @@ _Create Engaging, Viral-Ready Twitter Threads with AI_
    ```bash
    git clone https://github.com/yourusername/viralx.git
    cd viralx
+
+2. **Install Dependencies**  
+   Ensure you have Python installed, then run:  
+   ```bash
+   pip install -r requirements.txt
+
+
+
+
